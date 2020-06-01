@@ -1,5 +1,4 @@
-FROM tezos/tezos:latest-release
-
+FROM tezos/tezos:master_1dd3b62b_20200529162721
 # Install AWS CLI
 
 USER root
